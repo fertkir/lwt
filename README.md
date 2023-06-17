@@ -8,7 +8,7 @@ version: "3"
 
 services:
   lwt:
-    image: ghcr.io/fertkir/lwt:latest
+    image: ghcr.io/fertkir/lwt:main
     restart: unless-stopped
     ports:
       - "8080:80"
