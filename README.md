@@ -1,4 +1,4 @@
-## Dockerized Learning with Texts Files
+## [Learning with Texts Files](https://sourceforge.net/projects/learning-with-texts/) Dockerized
 
 1. Download docker-compose.yaml:
 ```yaml
