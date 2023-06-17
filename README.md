@@ -1,6 +1,7 @@
 ## [Learning with Texts Files](https://sourceforge.net/projects/learning-with-texts/) Dockerized
 
-1. Download docker-compose.yaml:
+### Installation:
+1. Download `docker-compose.yaml`:
 ```yaml
 # docker-compose.yml
 
@@ -24,4 +25,5 @@ volumes:
   db:
 ```
 
-2. `docker compose up -d`
+2. Run `docker compose up -d` in the directory with `docker-compose.yaml`.
+3. Open http://localhost:8080 in a browser.
